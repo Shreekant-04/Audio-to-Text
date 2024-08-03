@@ -1,0 +1,7 @@
+id,resource_url,status,created,completed,audio_url
+65f838ae-d203-4b68-a052-c51d9347fd11,https://api.assemblyai.com/v2/transcript/65f838ae-d203-4b68-a052-c51d9347fd11,completed,2024-08-03T10:02:47.197854,2024-08-03T10:02:53.390092,https://cdn.assemblyai.com/upload/b3e56306-41d0-461a-90be-d839f8a0fd3d,
+f1ace35f-5f59-4efe-b466-fd513d99d40d,https://api.assemblyai.com/v2/transcript/f1ace35f-5f59-4efe-b466-fd513d99d40d,completed,2024-08-03T09:47:58.695537,2024-08-03T09:48:04.608844,https://storage.googleapis.com/aai-web-samples/5_common_sports_injuries.mp3,
+8dfefe0f-4e81-4607-a841-e03bb362f7d1,https://api.assemblyai.com/v2/transcript/8dfefe0f-4e81-4607-a841-e03bb362f7d1,completed,2024-08-03T09:47:03.634679,2024-08-03T09:47:08.912552,https://storage.googleapis.com/aai-web-samples/5_common_sports_injuries.mp3,
+2dca2a3a-f970-4f9d-a549-6b9a8a0d4a04,https://api.assemblyai.com/v2/transcript/2dca2a3a-f970-4f9d-a549-6b9a8a0d4a04,completed,2024-08-03T09:45:27.975707,2024-08-03T09:45:30.861007,https://cdn.assemblyai.com/upload/d6ff58de-7768-4294-9f85-2ef3f2c9a34d,
+e9d889c1-d498-48b1-95e7-63bf5e124f33,https://api.assemblyai.com/v2/transcript/e9d889c1-d498-48b1-95e7-63bf5e124f33,completed,2024-08-03T09:40:29.397498,2024-08-03T09:40:32.178834,https://cdn.assemblyai.com/upload/bd2567d9-fcc0-41eb-aa96-c6d13c7c488f,
+f7506e4f-01d2-4180-9051-e25ec5fded94,https://api.assemblyai.com/v2/transcript/f7506e4f-01d2-4180-9051-e25ec5fded94,completed,2024-08-03T09:35:35.323025,2024-08-03T09:35:42.149634,https://storage.googleapis.com/aai-web-samples/5_common_sports_injuries.mp3,

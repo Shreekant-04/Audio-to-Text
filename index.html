@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Audio to Text Generator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="shortcut icon" href="./sound-waves.png" type="image/x-icon">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Audio to Text Generator</h1>
+      <form id="transcription-form">
+        <label for="audio-url">Audio File URL:</label>
+        <input type="text" id="audio-url" name="audio-url" />
+
+        <label for="audio-file">Or upload a local file:</label>
+        <input type="file" id="audio-file" name="audio-file" accept="audio/*" />
+
+        <button type="submit">Transcribe</button>
+      </form>
+      <div id="result">
+        <h2>Transcription Result:</h2>
+        <div id="transcription-text-container">
+          <p id="transcription-text"></p>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
